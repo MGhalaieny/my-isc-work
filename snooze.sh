@@ -1,4 +1,4 @@
 
-echo feeling sleepy...
+echo feeling really sleepy...
 sleep $X
-echo wake up!
+echo wake the fuck up!
